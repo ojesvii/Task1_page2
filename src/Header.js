@@ -7,7 +7,7 @@ function Header() {
     <header>
         <div class="head">
         <div class="head_left">
-           <img src=" ../images/Amrat.png"/>
+           <img src=" ./images/Amrat.png"/>
            <h5>Home</h5>
            <h4>Find Doctors</h4>
            <h5>About Us </h5>

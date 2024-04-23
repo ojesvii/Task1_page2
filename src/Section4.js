@@ -7,25 +7,25 @@ function Section4() {
          <div class="sec4">
             <div class="box">
                 <div class="sub1">
-                <img src="/images/girl_smile.png"/>
+                <img src="./images/girl_smile.png"/>
                 <div class="rating">
                     <h4>4.5</h4> 
-                    <img src="/images/sinngle-star.png"/>
+                    <img src="./images/sinngle-star.png"/>
                 </div> 
                 </div>
                 <div class="sub2">
                     <h3>Dr. Prerna Narang</h3>
                     <div class="mid">
                         <div class="sub_mid">
-                            <img src="/images/s1.png"/>
+                            <img src="./images/s1.png"/>
                             <h4>Male-Female Infertility</h4>
                         </div>
                         <div class="sub_mid1">
-                            <img src="/images/s2.png"/>
+                            <img src="./images/s2.png"/>
                             <h4>7 years of Experience</h4>
                         </div>
                         <div class="sub_mid2">
-                            <img src="/images/s3.png"/>
+                            <img src="./images/s3.png"/>
                             <h4>Speaks: English, Hindi, Marathi</h4>
                         </div>
                     </div>
@@ -47,25 +47,25 @@ function Section4() {
             </div>
             <div class="box">
                 <div class="sub1">
-                <img src="/images/girl_smile.png"/>
+                <img src="./images/girl_smile.png"/>
                 <div class="rating">
                     <h4>4.5</h4> 
-                    <img src="/images/sinngle-star.png"/>
+                    <img src="./images/sinngle-star.png"/>
                 </div> 
                 </div>
                 <div class="sub2">
                     <h3>Dr. Prerna Narang</h3>
                     <div class="mid">
                         <div class="sub_mid">
-                            <img src="/images/s1.png"/>
+                            <img src="./images/s1.png"/>
                             <h4>Male-Female Infertility</h4>
                         </div>
                         <div class="sub_mid1">
-                            <img src="/images/s2.png"/>
+                            <img src="./images/s2.png"/>
                             <h4>7 years of Experience</h4>
                         </div>
                         <div class="sub_mid2">
-                            <img src="/images/s3.png"/>
+                            <img src="./images/s3.png"/>
                             <h4>Speaks: English, Hindi, Marathi</h4>
                         </div>
                     </div>
@@ -87,25 +87,25 @@ function Section4() {
             </div>
             <div class="box">
                 <div class="sub1">
-                <img src="/images/girl_smile.png"/>
+                <img src="./images/girl_smile.png"/>
                 <div class="rating">
                     <h4>4.5</h4> 
-                    <img src="/images/sinngle-star.png"/>
+                    <img src="./images/sinngle-star.png"/>
                 </div> 
                 </div>
                 <div class="sub2">
                     <h3>Dr. Prerna Narang</h3>
                     <div class="mid">
                         <div class="sub_mid">
-                            <img src="/images/s1.png"/>
+                            <img src="./images/s1.png"/>
                             <h4>Male-Female Infertility</h4>
                         </div>
                         <div class="sub_mid1">
-                            <img src="/images/s2.png"/>
+                            <img src="./images/s2.png"/>
                             <h4>7 years of Experience</h4>
                         </div>
                         <div class="sub_mid2">
-                            <img src="/images/s3.png"/>
+                            <img src="./images/s3.png"/>
                             <h4>Speaks: English, Hindi, Marathi</h4>
                         </div>
                     </div>
