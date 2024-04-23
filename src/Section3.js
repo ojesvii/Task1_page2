@@ -8,19 +8,19 @@ function Section3() {
              
              <div class="box">
                 <h3>Hindi</h3>
-                <img src="../images/cross.png"/>
+                <img src="/images/cross.png"/>
              </div>
              <div class="box">
                 <h3>Rs.0-Rs.500</h3>
-                <img src="../images/cross.png"/>
+                <img src="/images/cross.png"/>
              </div>
              <div class="box">
                 <h3>Female</h3>
-                <img src="../images/cross.png"/>
+                <img src="/images/cross.png"/>
              </div>
              <div class="box">
                 <h3>Hair care</h3>
-                <img src="../images/cross.png"/>
+                <img src="/images/cross.png"/>
              </div>
              
         </div>

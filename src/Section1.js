@@ -12,13 +12,13 @@ function Section1() {
             <h4>Find expert Doctors for an In-clinic session here </h4>
             <div class="part2">
                 <div class="location-dropdown">
-                    <img src="../images/location.png" style={{height:"24px",width:"24px"}}/>
+                    <img src="/images/location.png" style={{height:"24px",width:"24px"}}/>
                     <h3>Select Location</h3>
-                    <img src="../images/down_arrow.png" style={{height:"24px",width:"24px"}}/>
+                    <img src="/images/down_arrow.png" style={{height:"24px",width:"24px"}}/>
                 </div>
                 <div class="search_bar">
                     <input type="text" placeholder="eg. Doctor, specialisation, clinic name" />
-                    <img src="../images/arrow_forward.png"/>
+                    <img src="/images/arrow_forward.png"/>
                 </div>
 
             </div>

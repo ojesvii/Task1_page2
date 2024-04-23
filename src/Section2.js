@@ -7,16 +7,16 @@ function Section2() {
         <div class="sec2">
            
            <div class="box"><h3>Expertise</h3>
-               <img src="../images/Vector.png"/></div>
+               <img src="/images/Vector.png"/></div>
            <div class="box"><h3>Gender</h3>
-               <img src="../images/Vector.png"/></div>
+               <img src="/images/Vector.png"/></div>
            <div class="box"><h3>Fees</h3>
-               <img src="../images/Vector.png"/></div>
+               <img src="/images/Vector.png"/></div>
            <div class="box"><h3>Languages</h3>
-               <img src="../images/Vector.png"/></div>
+               <img src="/images/Vector.png"/></div>
             <div class="box1">
                    <h3>All filters</h3>
-                   <img src="../images/Vector.png"/>
+                   <img src="/images/Vector.png"/>
                </div>
        </div>
     </Section>
